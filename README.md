@@ -1,4 +1,3 @@
-# gcs-spring-boot
 
 Instructions for making the entire project run is documented at:
 
