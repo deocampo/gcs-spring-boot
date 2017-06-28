@@ -1,5 +1,5 @@
 
-Instructions for making the entire project run are documented at:
+Instructions for the project are documented at:
 
 https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html
 
