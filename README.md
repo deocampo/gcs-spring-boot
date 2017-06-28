@@ -1,10 +1,10 @@
 # gcs-spring-boot
 
-Instructions for making the entire project run is documented:
+Instructions for making the entire project run is documented at:
 
 https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html
 
-The code base comes from the barebones spring-boot sample that I downloaded from:
+The codebase comes from the barebones spring-boot sample downloaded from:
 
 https://github.com/spring-guides/gs-spring-boot
 
