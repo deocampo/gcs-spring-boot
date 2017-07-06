@@ -1,5 +1,5 @@
 *.swp
 .classpath
-.project
+.project/
 .settings/
 target/
