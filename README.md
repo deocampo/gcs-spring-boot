@@ -14,3 +14,13 @@ http://deocampo-barebones.appspot.com/
 It is not a premanent site since I am using a free trial versions of Google Cloud.
 
 
+Some extensions to this project:
+
+Tensorflow:
+https://www.tensorflow.org/install/install_java
+
+
+Spring Scheduling:
+https://spring.io/guides/gs/scheduling-tasks/
+
+
