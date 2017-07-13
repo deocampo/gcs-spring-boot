@@ -19,11 +19,11 @@ It is not a premanent site since I am using a free trial versions of Google Clou
 ## Extension
 Some extensions to this project:
 
-###I. Tensorflow:
+### I. Tensorflow:
 https://www.tensorflow.org/install/install_java
 
 
-###II. Spring Scheduling:
+### II. Spring Scheduling:
 https://spring.io/guides/gs/scheduling-tasks/
 
 
