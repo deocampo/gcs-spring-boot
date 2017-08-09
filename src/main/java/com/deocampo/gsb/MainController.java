@@ -8,7 +8,7 @@ public class MainController {
     
     @RequestMapping("/")
     public String index() {
-        return "Greetings from Dondi's Spring Boot Testing v.7.7.17!";
+        return "Greetings from Dondi's Google Cloud Spring Boot Testing v.7.7.17!";
     }
     
 }

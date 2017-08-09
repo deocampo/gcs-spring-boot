@@ -11,6 +11,6 @@ and deployed into Google Cloud Platform. It may still be running at the followin
 
 http://deocampo-barebones.appspot.com/
 
-It is not a premanent site since I am using a free trial versions of Google Cloud.
+It is not a permanent site since I am using a free trial versions of Google Cloud.
 
 
