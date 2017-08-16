@@ -31,5 +31,5 @@ Added scheduled task following instructions from the following [site](https://sp
 
 ### 3. MSC (Model Service Controller) 
 
-Added scaffolding for basic model service controller, vie RESTFull calls using the following [site] (http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/). This is mapped to  ["/user"](http://deocampo-barebones.appspot.com/user/).
+Added scaffolding for basic model service controller, vie RESTFull calls using the following [site](http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/). This is mapped to  ["/user"](http://deocampo-barebones.appspot.com/user/).
 
