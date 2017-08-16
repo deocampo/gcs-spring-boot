@@ -11,15 +11,13 @@ The Spring boot codebase comes from the barebones spring-boot sample downloaded 
 
 https://github.com/spring-guides/gs-spring-boot
 
+
 This creates the Main controller mapped to ["/"](http://deocampo-barebones.appspot.com/).
 
 ## Deployed
 
-Project is deployed into Google Cloud Platform. It may still be running at the following site:
+Project is deployed into Google Cloud Platform. It may still be running at the following [site](http://deocampo-barebones.appspot.com/). The site is not up for long because, I am using a free trial versions of Google Cloud.
 
-http://deocampo-barebones.appspot.com/
-
-It is not a permanent site since I am using a free trial versions of Google Cloud.
 
 #Extensions
 
@@ -34,8 +32,4 @@ Added scheduled task following instructions from the following [site](https://sp
 ## 3. MSC (Model Service Controller) 
 
 Added scaffolding for basic model service controller, vie RESTFull calls using the following [site] (http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/). This is mapped to  ["/user/"](http://deocampo-barebones.appspot.com/users/).
-
-
-
-
 
