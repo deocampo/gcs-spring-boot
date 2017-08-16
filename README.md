@@ -1,11 +1,11 @@
 
-#Initial Setup
+# Initial Setup
 
 Instructions for the project are documented at:
 
 https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html
 
-##Base Project 
+## Base Project 
 
 The Spring boot codebase comes from the barebones spring-boot sample downloaded from:
 
@@ -19,7 +19,7 @@ This creates the Main controller mapped to ["/"](http://deocampo-barebones.appsp
 Project is deployed into Google Cloud Platform. It may still be running at the following [site](http://deocampo-barebones.appspot.com/). The site is not up for long because, I am using a free trial versions of Google Cloud.
 
 
-#Extensions
+# Extensions
 
 ## 1. Tensorflow
 
