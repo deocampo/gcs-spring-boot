@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import com.deocampo.gsb.msc.model.User;
-import com.deocampo.gsb.msc.service.UserService;
+import com.deocampo.gsb.msc.model.UserService;
 
 @RestController
 public class MscRestController {

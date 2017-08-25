@@ -1,8 +1,6 @@
-package com.deocampo.gsb.msc.service;
+package com.deocampo.gsb.msc.model;
 
 import java.util.List;
-
-import com.deocampo.gsb.msc.model.User;
 
 
 

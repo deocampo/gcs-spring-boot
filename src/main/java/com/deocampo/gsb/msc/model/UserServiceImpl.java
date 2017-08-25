@@ -1,4 +1,4 @@
-package com.deocampo.gsb.msc.service;
+package com.deocampo.gsb.msc.model;
 
 
 import java.util.ArrayList;
@@ -8,8 +8,6 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
-import com.deocampo.gsb.msc.model.User;
 
 @Service("userService")
 @Transactional
