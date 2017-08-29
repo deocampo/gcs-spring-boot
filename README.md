@@ -23,19 +23,9 @@ Added scheduled task following instructions from the following [Spring.io guide]
 
 ### 3. MSC (Model Service Controller) 
 
-## 1. Tensorflow
-
-Added Tensorflow code executed from the following [site](https://www.tensorflow.org/install/install_java). This is mapped to ["/tf"](http://deocampo-barebones.appspot.com/tf).
-
-## 2. Scheduler
-
-Added scheduled task following instructions from the following [site](https://spring.io/guides/gs/scheduling-tasks/). This is not mapped to any URI but runs in the following schedule  @Scheduled(cron = "0 0 0 25 12 ?"), every Christmas Day at midnight.
-
-## 3. MSC (Model Service Controller) 
-
 Added scaffolding for basic model service controller, vie RESTFull calls using the following [instructional site](http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/). This creates the MSC controller that is mapped to  ["/user"](http://deocampo-barebones.appspot.com/user/).
 
-## 4. REST 
+### 4. REST 
 
 Added sample REST functionality via RestController. As reference, used the following Spring.io [site](https://spring.io/guides/tutorials/bookmarks/). This is mapped to following URI ["/{userId}/bookmarks"]() where user can be any of the following : dondi, leo, josh, liza, mimie, lolo, lola, anshul.
 
